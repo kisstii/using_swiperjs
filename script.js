@@ -1,6 +1,6 @@
 function loader() {
 
-	var mySwiper = new Swiper('.swiper-container', {
+	let mySwiper = new Swiper('.swiper-container', {
 			direction: 'vertical',
 		loop: true,
 	
